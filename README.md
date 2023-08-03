@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Treine.me" title="Treine.me" src=".github/treine-me_logo.png" width="220px" />
+  <img alt="Treine.me" title="Treine.me" src=".github/treine-me_logo.png" />
 </h1>
 
 <p align="center">

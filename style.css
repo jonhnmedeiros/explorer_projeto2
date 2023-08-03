@@ -2,11 +2,10 @@ body {
     margin: 0;
   
     font-family: 'Open Sans', sans-serif;
-
-    background: linear-gradient(180deg, rgba(227, 255, 248, 0.00) 80%, rgba(227, 255, 248, 0.38) 100%);
-
+  
+    background: linear-gradient(180deg, rgba(227, 255, 248, 0.00) 82.08%, rgba(227, 255, 248, 0.38) 100%);
+  
     min-height: 100vh;
-
   }
   
   .page {
@@ -21,7 +20,6 @@ body {
     align-items: center;
   
     margin-bottom: 55px;
-  
   }
   
   ul {
@@ -33,12 +31,12 @@ body {
   }
   
   a {
-    color: #1F1534;
+    color: #1f1534;
     text-decoration: none;
   }
-
+  
   ul li a {
-    opacity: 0.5;
+      opacity: 0.5;
   }
   
   ul li a:hover {
@@ -59,7 +57,7 @@ body {
   h1 {
     font-size: 49px;
     line-height: 56px;
-    color: #1F1534;
+    color: #1f1534;
   
     font-weight: normal;
   
@@ -67,15 +65,15 @@ body {
   }
   
   h1 span {
-    color: #89C5CC;
+    color: #89c5cc;
     font-weight: bold;
   }
   
   section p {
     font-size: 14px;
     line-height: 28px;
-    color: #7D7987;
-
+    color: #7d7987;
+  
     margin: 40px 0;
   }
   
@@ -83,39 +81,40 @@ body {
     color: white;
     text-transform: uppercase;
     font-family: 'Open Sans', sans-serif;
-
-    background: #69b99D;
+  
+    background: #69B99D;
     border-radius: 4px;
     border: 0;
     padding: 14px 32px 15px;
-
+  
     display: flex;
-    align-items: center;
     justify-content: center;
+    align-items: center;
     gap: 10px;
-    
+  
     cursor: pointer;
   }
-
+  
   button:hover {
-    background: #4ead8c;
+    background: #4EA788;
   }
   
   footer {
     font-size: 14px;
-    line-height: 28px; 
-
+    line-height: 28px;
+  
     text-align: center;
-
+  
     margin-top: 80px;
   }
   
   footer a {
     font-weight: bold;
   }
-
+  
   #balls {
     position: fixed;
     bottom: 0;
     right: 0;
   }
+  

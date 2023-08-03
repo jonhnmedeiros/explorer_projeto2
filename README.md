@@ -30,7 +30,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O treine.me é um projeto inicial de página para um aplicativo de treinos.
+O treine.me é um projeto inicial de página para um serviço de treinos personalizados.
+Você pode acessar o projeto [nesse link](https://jonhnmedeiros.github.io/explorer_projeto2).
 
 ## 🔖 Layout
 
